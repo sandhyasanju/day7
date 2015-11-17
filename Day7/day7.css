@@ -4,3 +4,9 @@ body {
 #table2 {
   margin: 0 auto;
 }
+.p {
+  display: inline;
+}
+#th {
+  cursor: pointer;
+}
